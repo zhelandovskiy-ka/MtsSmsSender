@@ -8,4 +8,4 @@ __MTS Communicator__
 
 Главное окно программы:
 
-<img src="https://github.com/zhelandovskiy-ka/MtsSmsSender/blob/master/screen.png" width="50%">
+<img src="https://github.com/zhelandovskiy-ka/MtsSmsSender/blob/master/screen.png" width="100%">
